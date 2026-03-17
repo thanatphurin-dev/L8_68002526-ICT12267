@@ -1,0 +1,65 @@
+body{
+    font-family: sans-serif;
+    }
+    
+    
+    /* Banner */
+    
+    .banner{
+    
+    background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e");
+    
+    background-size: cover;
+    background-position: center;
+    
+    height: 450px;
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+    text-align:center;
+    color:white;
+    
+    }
+    
+    .banner-text h1{
+    font-size:48px;
+    font-weight:bold;
+    }
+    
+    
+    
+    /* Services */
+    
+    .services{
+    background:#f3f3f3;
+    padding:60px 0;
+    }
+    
+    
+    .card img{
+    
+    height:300px;
+    object-fit:cover;
+    
+    }
+    
+    
+    
+    /* Footer */
+    
+    footer{
+    
+    background:#1f1f1f;
+    color:white;
+    padding:40px 0;
+    
+    }
+    
+    footer a{
+    
+    color:#3fa9ff;
+    text-decoration:none;
+    
+    }
